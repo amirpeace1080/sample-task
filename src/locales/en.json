@@ -1,0 +1,9 @@
+{
+    "message": {
+        "hello": "Hello",
+        "dashboard": "Dashboard",
+        "todos": "Todos",
+        "weather": "Weather",
+        "profile": "Profile"
+    }
+}
